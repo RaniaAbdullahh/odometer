@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  color: rgb(23, 46, 14);
+
+}
+.button{
+
+  width: 70px;
+  height: 50px;
+  margin: 10px;
+  background-color: rgb(224, 20, 99);
 }
 
 .App-logo {
